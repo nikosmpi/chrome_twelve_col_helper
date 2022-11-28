@@ -1,1 +1,1 @@
-# chrome_twelve_col_helper
+# Chrome Plugin: Twelve Columns Helper
