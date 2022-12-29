@@ -50,6 +50,7 @@ function toggleGrid() {
     top: 0;
     z-index: 1000;
     opacity: 0.5;
+	padding: 0;
 }
 .test-grid  [class*="col-"] div{
     height: 100vh;
